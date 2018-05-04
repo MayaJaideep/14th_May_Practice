@@ -1,1 +1,1 @@
-This is a training class
+This is a edureka training class
